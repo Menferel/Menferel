@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  ## Hola, mi nombre es Elías Mendoza. 
+  <b> Hola, mi nombre es Elías Mendoza. </b><br>
 </p>
 
 ## Sobre mí: 
