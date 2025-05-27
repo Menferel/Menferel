@@ -1,4 +1,4 @@
-<img src="https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/cms/1068812018WorkFromHomeDataScientist.jpg=ws1280x960" alt="Elías Mendoza - Data Science" width="20%"/>
+<img src="https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/cms/1068812018WorkFromHomeDataScientist.jpg=ws1280x960" alt="Elías Mendoza - Data Science" width="40%"/>
 
 ### Hola, mi nombre es Elías Mendoza. 
 
