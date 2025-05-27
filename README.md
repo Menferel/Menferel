@@ -1,16 +1,22 @@
-### Hola, mi nombre es Elías Mendoza Fernández 
+### Hola, mi nombre es Elías Mendoza. 
 
-<!--
-**Menferel/Menferel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí: 
+📊 Apasionado por analizar datos, encontrar patrones y convertirlos en decisiones estratégicas.  
 
-Here are some ideas to get you started:
+🎓 Estoy finalizando un bootcamp en Ciencia de Datos en Tripleten, donde he desarrollado habilidades en:
+- Python
+- Análisis exploratorio de datos (EDA)
+- Machine Learning
+- Pandas, NumPy, scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Como Ingeniero Industrial y de Sistemas, me enfoco en procesos, eficiencia y mejora continua.
+
+### 🧰 Tecnologías que uso
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
