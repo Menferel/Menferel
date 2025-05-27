@@ -1,6 +1,6 @@
 <img src="https://pg-p.ctme.caltech.edu/wp-content/uploads/sites/4/2023/02/data-scientist-job-description.jpg" alt="Elías Mendoza - Data Science" width="30%"/>
 
-### Hola, mi nombre es Elías Mendoza. 
+## Hola, mi nombre es Elías Mendoza. 
 
 ## Sobre mí: 
 📊 Apasionado por analizar datos, encontrar patrones y convertirlos en decisiones estratégicas.  
@@ -13,7 +13,7 @@
 
 ⚙️ Como Ingeniero Industrial y de Sistemas, me enfoco en procesos, eficiencia y mejora continua.
 
-### 🧰 Tecnologías que uso
+## 🧰 Tecnologías que uso
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
