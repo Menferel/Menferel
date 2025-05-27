@@ -1,6 +1,10 @@
-<img src="https://pg-p.ctme.caltech.edu/wp-content/uploads/sites/4/2023/02/data-scientist-job-description.jpg" alt="Elías Mendoza - Data Science" width="30%"/>
+<p align="center">
+  <img src="https://pg-p.ctme.caltech.edu/wp-content/uploads/sites/4/2023/02/data-scientist-job-description.jpg" alt="Elías Mendoza - Data Science" width="30%"/>
+</p>
 
-## Hola, mi nombre es Elías Mendoza. 
+<p align="center">
+  ## Hola, mi nombre es Elías Mendoza. 
+</p>
 
 ## Sobre mí: 
 📊 Apasionado por analizar datos, encontrar patrones y convertirlos en decisiones estratégicas.  
