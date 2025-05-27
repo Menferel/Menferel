@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/your-image.png" alt="Elías Mendoza - Data Science" width="100%"/>
+
 ### Hola, mi nombre es Elías Mendoza. 
 
 ## Sobre mí: 
