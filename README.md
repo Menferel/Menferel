@@ -1,4 +1,4 @@
-<img src="https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/cms/1068812018WorkFromHomeDataScientist.jpg=ws1280x960" alt="Elías Mendoza - Data Science" width="30%"/>
+<img src="https://pg-p.ctme.caltech.edu/wp-content/uploads/sites/4/2023/02/data-scientist-job-description.jpg" alt="Elías Mendoza - Data Science" width="30%"/>
 
 ### Hola, mi nombre es Elías Mendoza. 
 
