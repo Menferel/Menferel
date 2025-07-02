@@ -7,9 +7,9 @@
 </p>
 
 ## Sobre mí: 
-📊 Apasionado por analizar datos, encontrar patrones y convertirlos en decisiones estratégicas.  
+📊 Apasionado por el análisis de los datos, identificación de patrones y desarrollo de modelos que lleven a decisiones de negocio
 
-🎓 Estoy finalizando un bootcamp en Ciencia de Datos en Tripleten, donde he desarrollado habilidades en:
+🎓 Científico de datos en donde desarrollé habilidades tales como:
 - Python
 - Análisis exploratorio de datos (EDA)
 - Machine Learning
