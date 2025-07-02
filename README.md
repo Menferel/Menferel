@@ -7,7 +7,7 @@
 </p>
 
 ## Sobre mí: 
-📊 Apasionado por el análisis de los datos, identificación de patrones y desarrollo de modelos que lleven a decisiones de negocio
+📊 Apasionado por la ciencia de datos, análisis de estos, la identificación de patrones y desarrollo de modelos que lleven a decisiones de negocio
 
 🎓 Científico de datos en donde desarrollé habilidades tales como:
 - Python
