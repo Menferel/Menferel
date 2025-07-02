@@ -29,4 +29,4 @@
 
 ## Contáctame:
 - Email: elias.1999@live.com.mx
-- Linkedin: https://www.linkedin.com/in/el%C3%ADas-mendoza-fern%C3%A1ndez/
+- Linkedin: https://www.linkedin.com/in/elías-mendoza-fernández/
