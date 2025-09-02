@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b> Hey there, my name is Elias Mendoza! </b><br>
+  <b> Hey there, my name is Elias Mendoza from Mexico! </b><br>
 </p>
 
 ## About me: 
