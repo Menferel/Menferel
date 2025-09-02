@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">
-  <b> Hola, mi nombre es Elías Mendoza. </b><br>
+  <b> Hey there, my name is Elias Mendoza! </b><br>
 </p>
 
-## Sobre mí: 
-📊 Apasionado por la ciencia de datos, análisis de estos, la identificación de patrones y desarrollo de modelos que lleven a decisiones de negocio
+## About me: 
+📊 Passionate about data science, data analysis, pattern identification, and model development that lead to business decisions. 
 
-🎓 Científico de datos en donde desarrollé habilidades tales como:
+🎓 In data science, develop skills such as: 
 - Python
-- Análisis exploratorio de datos (EDA)
+- Exploratory Data Analysis (EDA)
 - Machine Learning
 - Pandas, NumPy, scikit-learn
 
-⚙️ Como Ingeniero Industrial y de Sistemas, me enfoco en procesos, eficiencia y mejora continua.
+⚙️ As an Industrial and Systems Engineer, I focus on processes, efficiency, and continuous improvement.
 
-## 🧰 Tecnologías que uso
+## 🧰 Technologies I use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -27,6 +27,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Contáctame:
+## Contact me:
 - Email: elias.1999@live.com.mx
 - Linkedin: https://www.linkedin.com/in/elías-mendoza-fernández/
